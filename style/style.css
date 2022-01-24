@@ -1,0 +1,19 @@
+
+
+#card {
+background-color: #E9E6E6;
+}
+
+#title{
+background-color: #78F0B7;
+border: 2px;
+padding: 10px;
+margin-top: 10px;
+margin-left: 20px;
+margin-bottom: 40px;
+}
+
+#content{
+    background-color: #24CCDA;
+
+}
